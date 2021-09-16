@@ -5,4 +5,5 @@ class Coba {
 
 $a = new Coba();
 var_dump($a);
+echo "<br>";
 ?>
